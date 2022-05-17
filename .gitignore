@@ -1,0 +1,4 @@
+#Ignorar carpeta css
+css
+#Ignorar .icon
+*.icon
